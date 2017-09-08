@@ -2,6 +2,10 @@
 
 This is a very thin (3 line!) Angular wrapper around the [FT's](https://github.com/ftlabs) fantastic [FastClick](https://github.com/ftlabs/fastclick)
 
+This Ntree fork fixes a bug on touch. https://github.com/ftlabs/fastclick/issues/466
+
+
+
 ## Installation
 
 In your Angular project, run `bower install --save ng-fastclick` to save the
